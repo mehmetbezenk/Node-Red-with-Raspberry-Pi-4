@@ -6,7 +6,7 @@ Bu projede Raspberry Pi4 cihazımıza Debian işletim sistemi kurulmuştur. Bura
 
 İhtyacınız Olan Donanımlar:
 
-1 adet Raspberry Pi4, 1 adet Dc motor, 2 adet Led, yeteri kadar direnç ve jumper kablo
+1 adet Raspberry Pi4, 1 adet Dc motor, 2 adet Led, L293d motor driver entegresi, yeteri kadar direnç ve jumper kablo
 
 Projede Node-Red kısmında ihtiyacınız olan kod kısmını flow.json uzantılı dosyayı indirebilirsiniz. 
 
